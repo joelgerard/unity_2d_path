@@ -1,0 +1,43 @@
+.DS_Store
+.collabignore
+.vs
+obj
+Temp
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Logs/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+# ==================
+# The dir with the iOS build
+iwar/
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
